@@ -4,10 +4,7 @@ Create a new repo from scratch.
 ## Subheader
 Testing merge conflicts again.
 
-<<<<<<< HEAD
 ## Subheader 2
 Testing again huh.
-=======
 ## new section
 Try to resolve conflicts manually.
->>>>>>> feature2
