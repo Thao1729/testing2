@@ -4,5 +4,5 @@ Create a new repo from scratch.
 ## Subheader
 Testing merge conflicts again.
 
-## Subheader 2
-Again.
+## new section
+Try to resolve conflicts manually.
