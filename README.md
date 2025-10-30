@@ -5,6 +5,4 @@ Create a new repo from scratch.
 Testing merge conflicts again.
 
 ## Subheader 2
-Again.
-Hello
-there
+Testing again huh.
